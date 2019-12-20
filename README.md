@@ -1,6 +1,10 @@
 如何实现使用JavaScript画图呢？用HTML5画布(Canvas)呀
 ================================================
 
+## Youtube视频讲解
+
+https://youtu.be/7-EIqjYs6jY
+
 ## 知识点
 
 + 使用HTML5+JavaScript画个图看看
